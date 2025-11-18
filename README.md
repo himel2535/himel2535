@@ -4,40 +4,46 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Monwar Hossan Himel</h1>
-<h3 align="center">A Passionate Full-Stack (MERN) Developer from Bangladesh</h3>
+<h4 align="center">
+  A Passionate Full-Stack (MERN) Developer from Bangladesh. <br>
+  🎓 BSc & MSc in Computer Science & Engineering from Jahangirnagar University.
+</h4>
+
+---
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
 
-- 👨‍💻 All of my projects are available at **https://github.com/himel2535**  
+
+
+
+
 - 🔭 I’m currently working on **Zap-Shift Website Project**  
 - 🌱 I’m exploring **Next.js & Advanced React Concepts**  
-- ⚡ Fun fact: **I love clean UI & smooth user experience 😌**
+- ⚡ Try to make clean UI & smooth user experience 
 
----
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/monwar-hossan-himel-17089924a/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="30" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
   <a href="https://www.facebook.com/monwarhossin.himel" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=facebook" height="30" width="30" />
+    <img align="center" src="https://cdn.simpleicons.org/facebook/1877F2" height="40" width="40" />
   </a>
   <a href="mailto:monwarhossanhimel@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="30" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
   </a>
 </p>
 
+
 📍 **Location:** Kishoreganj, Dhaka, Bangladesh  
-✉️ **Email:** monwarhossanhimel@gmail.com  
+✉️  **Email:** monwarhossanhimel@gmail.com  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,tailwind" />
 </p>
@@ -60,7 +66,7 @@
 
 ---
 
-<h3 align="left">📌 Pinned Repositories:</h3>
+<h2 align="left">📌 Pinned Repositories:</h2>
 <p align="left">
   <!-- First project -->
   <a href="https://github.com/himel2535/ai-model-inventory-manager-client" target="_blank">
@@ -70,6 +76,8 @@
   🔗 Live: [AI Model Inventory](https://ai-model-inventory-manag-45b01.web.app/) | 
   🔗 Server: [GitHub Server](https://github.com/himel2535/ai-model-inventory-manager-server) | 
   🔗 Client: [GitHub Client](https://github.com/himel2535/ai-model-inventory-manager-client)
+
+
 
   <!-- Second project -->
   <a href="https://github.com/himel2535/project-2" target="_blank">
@@ -82,6 +90,10 @@
   </a>
 </p>
 
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
 ---
 
 ### ✨ Thanks for visiting my profile!
