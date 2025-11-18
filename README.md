@@ -3,7 +3,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQF4YeeGuMEWgQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYlordG0AY-/0/1763496595820?e=1764806400&v=beta&t=dejC_xzAaci7G5fzwCKGH_DX6qroa-_RynWpAy_-M1o" alt="Banner" />
 </p>
 
-<!-- <h1 align="center">Hi 👋, I'm Monwar Hossan Himel</h1> -->
+
 <h1 align="center">
   <!-- <a href="https://git.io/typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am;Monwar+Hossan+Himel;Nice+to+meet+you!&center=true&size=30">
@@ -17,20 +17,21 @@
 ---
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif">
-
-
-
-
+<img align="right" alt="coding" width="400" height="250" src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif">
 
 
 - 🔭 I’m currently working on **Zap-Shift Website Project**  
 - 🌱 I’m exploring **Next.js & Advanced React Concepts**  
 - ⚡ Try to make clean UI & smooth user experience  
-- 💡 Always learning new technologies
+- 💡 Always learning new technologies  
+- 🛠️ Building **real-world projects** to improve my skills  
+- 🚀 Exploring **performance optimization** and best practices  
+- 📚 Reading **technical blogs & documentation** regularly  
+- 🤝 Collaborating on **open-source projects** and learning teamwork
 
 
 
+---
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
