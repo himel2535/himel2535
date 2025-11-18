@@ -3,7 +3,12 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQF4YeeGuMEWgQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYlordG0AY-/0/1763496595820?e=1764806400&v=beta&t=dejC_xzAaci7G5fzwCKGH_DX6qroa-_RynWpAy_-M1o" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Monwar Hossan Himel</h1>
+<!-- <h1 align="center">Hi 👋, I'm Monwar Hossan Himel</h1> -->
+<h1 align="center">
+  <!-- <a href="https://git.io/typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am;Monwar+Hossan+Himel;Nice+to+meet+you!&center=true&size=30">
+  <!-- </a> -->
+</h1>
 <h4 align="center">
   A Passionate Full-Stack (MERN) Developer from Bangladesh. <br>
   🎓 BSc & MSc in Computer Science & Engineering from Jahangirnagar University.
@@ -12,7 +17,7 @@
 ---
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif">
 
 
 
@@ -21,7 +26,10 @@
 
 - 🔭 I’m currently working on **Zap-Shift Website Project**  
 - 🌱 I’m exploring **Next.js & Advanced React Concepts**  
-- ⚡ Try to make clean UI & smooth user experience 
+- ⚡ Try to make clean UI & smooth user experience  
+- 💡 Always learning new technologies
+
+
 
 
 <h2 align="left">Connect with me:</h2>
@@ -36,6 +44,8 @@
     <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
   </a>
 </p>
+
+
 
 
 📍 **Location:** Kishoreganj, Dhaka, Bangladesh  
@@ -66,16 +76,27 @@
 
 ---
 
+
+<h2>📈 GitHub Contributions</h2>
+
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://ghchart.rshah.org/himel2535" alt="GitHub Contributions" style="max-width: 90%; border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+</div>
+
+---
+
 <h2 align="left">📌 Pinned Repositories:</h2>
 <p align="left">
-  <!-- First project -->
-  <a href="https://github.com/himel2535/ai-model-inventory-manager-client" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himel2535&repo=ai-model-inventory-manager-client&theme=tokyonight" alt="AI Model Inventory Client" />
-  </a>
-  <br>
-  🔗 Live: [AI Model Inventory](https://ai-model-inventory-manag-45b01.web.app/) | 
-  🔗 Server: [GitHub Server](https://github.com/himel2535/ai-model-inventory-manager-server) | 
-  🔗 Client: [GitHub Client](https://github.com/himel2535/ai-model-inventory-manager-client)
+  
+<a href="https://github.com/himel2535/ai-model-inventory-manager-client" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himel2535&repo=ai-model-inventory-manager-client&theme=tokyonight" alt="AI Model Inventory Client" />
+</a>
+
+<!-- Only GitHub Client link inside the box -->
+<div style="background-color:#1a1b26; color:white; border-radius:8px; padding:8px; margin-top:-10px; display:flex; justify-content:center; align-items:center; max-width: 420px;">
+  🔗 Client: <a href="https://github.com/himel2535/ai-model-inventory-manager-client" target="_blank" style="color:#40c4ff; margin-left:5px;">GitHub Client</a>
+</div>
 
 
 
