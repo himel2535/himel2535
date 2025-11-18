@@ -17,7 +17,7 @@
 ---
 
 
-<img align="right" alt="coding" width="400" height="250" src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif">
+<img align="right" alt="coding" width="400"  src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif">
 
 
 - 🔭 I’m currently working on **Zap-Shift Website Project**  
