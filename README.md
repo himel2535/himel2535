@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/fVjtkbVh/White-and-Blue-Minimalist-AI-Engineer-Linked-In-Banner.png" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQF4YeeGuMEWgQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYlordG0AY-/0/1763496595820?e=1764806400&v=beta&t=dejC_xzAaci7G5fzwCKGH_DX6qroa-_RynWpAy_-M1o" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Monwar Hossan Himel</h1>
@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20views&color=0e75b6&style=flat" alt="himel2535" /> 
+  <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 - 👨‍💻 All of my projects are available at **https://github.com/himel2535**  
@@ -46,17 +46,25 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <!-- Total commits, repos, followers, etc -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=himel2535&show_icons=true&theme=tokyonight" />
+  
+  <!-- Top languages -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel2535&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himel2535&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 <h3 align="left">📌 Pinned Repositories:</h3>
 <p align="left">
-  <!-- First project with live link and separate client/server repos -->
-  <a href="https://ai-model-inventory-manag-45b01.web.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himel2535&repo=ai-model-inventory-manager-client&theme=tokyonight" alt="AI Model Inventory Manager" />
+  <!-- First project -->
+  <a href="https://github.com/himel2535/ai-model-inventory-manager-client" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himel2535&repo=ai-model-inventory-manager-client&theme=tokyonight" alt="AI Model Inventory Client" />
   </a>
   <br>
   🔗 Live: [AI Model Inventory](https://ai-model-inventory-manag-45b01.web.app/) | 
@@ -77,4 +85,3 @@
 ---
 
 ### ✨ Thanks for visiting my profile!
-
