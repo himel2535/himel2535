@@ -92,4 +92,6 @@
 
 ---
 
-### <h3 align="center">✨ Thanks for visiting my profile!</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Thanks+for;visiting+my+profile!&center=true&size=25&color=ffffff">
+</h3>
