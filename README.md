@@ -87,35 +87,11 @@
 
 ---
 
-<h2 align="left">📌 Pinned Repositories:</h2>
-<p align="left">
-  
-<a href="https://github.com/himel2535/ai-model-inventory-manager-client" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himel2535&repo=ai-model-inventory-manager-client&theme=tokyonight" alt="AI Model Inventory Client" />
-</a>
-
-<!-- Only GitHub Client link inside the box -->
-<div style="background-color:#1a1b26; color:white; border-radius:8px; padding:8px; margin-top:-10px; display:flex; justify-content:center; align-items:center; max-width: 420px;">
-  🔗 Client: <a href="https://github.com/himel2535/ai-model-inventory-manager-client" target="_blank" style="color:#40c4ff; margin-left:5px;">GitHub Client</a>
-</div>
-
-
-
-  <!-- Second project -->
-  <a href="https://github.com/himel2535/project-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himel2535&repo=project-2&theme=tokyonight" alt="Project 2" />
-  </a>
-
-  <!-- Third project -->
-  <a href="https://github.com/himel2535/project-3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himel2535&repo=project-3&theme=tokyonight" alt="Project 3" />
-  </a>
-</p>
-
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
+
 ---
 
 ### ✨ Thanks for visiting my profile!
