@@ -27,15 +27,15 @@
   <li>⚡ Try to make clean UI & smooth user experience</li>
   <li>💡 Always learning new technologies</li>
   <li>🛠️ Building <b>real-world projects</b> to improve my skills</li>
-  <li>🚀 Exploring <b>performance optimization</b> and best practices</li>
+  <li>🚀 Exploring <b>performance optimization</b></li>
   <li>📚 Reading <b>technical blogs & documentation</b> regularly</li>
   <li>🤝 Collaborating on <b>open-source projects</b> and learning teamwork</li>
 </ul>
 </td>
 
-<!-- ছবি ডান পাশে -->
+
 <td valign="center" width="40%">
-  <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" alt="coding" />
+  <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" height="60%" alt="coding" />
 </td>
 </tr>
 </table>
