@@ -17,9 +17,10 @@
 ---
 
 
-<img align="right" alt="coding" width="350"  src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif">
-
-
+<table>
+<tr>
+<!-- লেখা বাম পাশে -->
+<td valign="top" width="60%">
 - 🔭 I’m currently working on **Zap-Shift Website Project**  
 - 🌱 I’m exploring **Next.js & Advanced React Concepts**  
 - ⚡ Try to make clean UI & smooth user experience  
@@ -28,7 +29,14 @@
 - 🚀 Exploring **performance optimization** and best practices  
 - 📚 Reading **technical blogs & documentation** regularly  
 - 🤝 Collaborating on **open-source projects** and learning teamwork
+</td>
 
+<!-- ছবি ডান পাশে -->
+<td valign="top" width="40%">
+  <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" alt="coding" />
+</td>
+</tr>
+</table>
 
 
 ---
