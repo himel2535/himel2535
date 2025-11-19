@@ -21,14 +21,16 @@
 <tr>
 <!-- লেখা বাম পাশে -->
 <td valign="top" width="60%">
-- 🔭 I’m currently working on **Zap-Shift Website Project**  
-- 🌱 I’m exploring **Next.js & Advanced React Concepts**  
-- ⚡ Try to make clean UI & smooth user experience  
-- 💡 Always learning new technologies  
-- 🛠️ Building **real-world projects** to improve my skills  
-- 🚀 Exploring **performance optimization** and best practices  
-- 📚 Reading **technical blogs & documentation** regularly  
-- 🤝 Collaborating on **open-source projects** and learning teamwork
+<ul>
+  <li>🔭 I’m currently working on <b>Zap-Shift Website Project</b></li>
+  <li>🌱 I’m exploring <b>Next.js & Advanced React Concepts</b></li>
+  <li>⚡ Try to make clean UI & smooth user experience</li>
+  <li>💡 Always learning new technologies</li>
+  <li>🛠️ Building <b>real-world projects</b> to improve my skills</li>
+  <li>🚀 Exploring <b>performance optimization</b> and best practices</li>
+  <li>📚 Reading <b>technical blogs & documentation</b> regularly</li>
+  <li>🤝 Collaborating on <b>open-source projects</b> and learning teamwork</li>
+</ul>
 </td>
 
 <!-- ছবি ডান পাশে -->
