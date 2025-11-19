@@ -78,16 +78,6 @@
 ---
 
 
-<h2>📈 GitHub Contributions</h2>
-
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://ghchart.rshah.org/himel2535" alt="GitHub Contributions" style="max-width: 90%; border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
-</div>
-
----
-
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
