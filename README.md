@@ -88,10 +88,10 @@
 ---
 
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
 
-### ✨ Thanks for visiting my profile!
+### <h3 align="center">✨ Thanks for visiting my profile!</h3>
