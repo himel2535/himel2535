@@ -5,9 +5,7 @@
 
 
 <h1 align="center">
-  <!-- <a href="https://git.io/typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am;Monwar+Hossan+Himel;Nice+to+meet+you!&center=true&size=30">
-  <!-- </a> -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I+am;Monwar+Hossan+Himel;Nice+to+meet+you!&center=true&size=30&color=ffffff">
 </h1>
 <h4 align="center">
   A Passionate Full-Stack (MERN) Developer from Bangladesh. <br>
