@@ -19,8 +19,8 @@
 
 <table>
 <tr>
-<!-- লেখা বাম পাশে -->
-<td valign="top" width="60%">
+
+<td valign="center" width="60%">
 <ul>
   <li>🔭 I’m currently working on <b>Zap-Shift Website Project</b></li>
   <li>🌱 I’m exploring <b>Next.js & Advanced React Concepts</b></li>
@@ -34,7 +34,7 @@
 </td>
 
 <!-- ছবি ডান পাশে -->
-<td valign="top" width="40%">
+<td valign="center" width="40%">
   <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" alt="coding" />
 </td>
 </tr>
