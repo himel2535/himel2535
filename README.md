@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF4YeeGuMEWgQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYlordG0AY-/0/1763496595820?e=1764806400&v=beta&t=dejC_xzAaci7G5fzwCKGH_DX6qroa-_RynWpAy_-M1o" alt="Banner" />
+  <!-- <img src="https://media.licdn.com/dms/image/v2/D5616AQF4YeeGuMEWgQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYlordG0AY-/0/1763496595820?e=1764806400&v=beta&t=dejC_xzAaci7G5fzwCKGH_DX6qroa-_RynWpAy_-M1o" alt="Banner" /> -->
+  <img src="https://i.ibb.co.com/ymtKQhF4/Banner.png" alt="Banner" />
 </p>
 
 
