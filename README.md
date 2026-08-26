@@ -6,23 +6,19 @@
   <img src="https://i.ibb.co.com/ymtKQhF4/Banner.png" alt="Monwar Hossan Himel Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  👋 Monwar Hossan Himel
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack Software Engineer
-</h3>
+# 👋 Monwar Hossan Himel
 
-<p align="center">
-  <i>Building scalable SaaS & ERP platforms with modern web technologies</i>
-</p>
+### **Full-Stack Software Engineer**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Engineer-3178C6?style=flat-square" />
-  <img src="https://img.shields.io/badge/SaaS%20%26%20ERP-Engineering-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-Exploring-412991?style=flat-square" />
-</p>
+**SaaS & ERP** · **Backend Engineering** · **System Architecture** · **Performance Optimization** · **AI/LLM**
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,mongodb,redis,docker" />
+
+</div>
 
 
 
