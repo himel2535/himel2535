@@ -1,98 +1,308 @@
-<!-- Banner -->
-<p align="center">
-  <!-- <img src="https://media.licdn.com/dms/image/v2/D5616AQF4YeeGuMEWgQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYlordG0AY-/0/1763496595820?e=1764806400&v=beta&t=dejC_xzAaci7G5fzwCKGH_DX6qroa-_RynWpAy_-M1o" alt="Banner" /> -->
-  <img src="https://i.ibb.co.com/ymtKQhF4/Banner.png" alt="Banner" />
-</p>
+<!-- ========================= -->
+<!--        PROFILE HEADER     -->
+<!-- ========================= -->
 
+<p align="center">
+  <img src="https://i.ibb.co.com/ymtKQhF4/Banner.png" alt="Monwar Hossan Himel Banner" width="100%" />
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I+am;Monwar+Hossan+Himel;Nice+to+meet+you!&center=true&size=30&color=ffffff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Monwar+Hossan+Himel;Full-Stack+Software+Engineer;Building+Scalable+SaaS+%26+ERP+Systems;Exploring+AI+%26+LLM+Engineering&center=true&size=28&color=ffffff" />
 </h1>
-<h4 align="center">
-  A Passionate Full-Stack (MERN) Developer from Bangladesh. <br>
-  🎓 BSc & MSc in Computer Science & Engineering from Jahangirnagar University.
-</h4>
+
+<p align="center">
+  <strong>Full-Stack Software Engineer | SaaS & ERP | Backend & Platform Engineering | AI/LLM</strong>
+</p>
+
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp;•&nbsp;
+  💼 Open to Full-Stack / Backend / Platform Roles
+</p>
 
 ---
 
+## 👨‍💻 About Me
 
-<table>
-<tr>
+I'm a **Full-Stack Software Engineer** with **1.5+ years of professional experience** building and shipping production-grade SaaS, ERP, and business automation platforms.
 
-<td valign="center" width="60%">
-<ul>
-  <li>🔭 I’m currently working on <b>Zap-Shift Website Project</b></li>
-  <li>🌱 I’m exploring <b>Next.js & Advanced React Concepts</b></li>
-  <li>⚡ Try to make clean UI & smooth user experience</li>
-  <li>💡 Always learning new technologies</li>
-  <li>🛠️ Building <b>real-world projects</b> to improve my skills</li>
-  <li>🚀 Exploring <b>performance optimization</b></li>
-  <li>📚 Reading <b>technical blogs & documentation</b> regularly</li>
-  <li>🤝 Collaborating on <b>open-source projects</b> and learning teamwork</li>
-</ul>
-</td>
+I enjoy taking **end-to-end ownership** of software products — from requirements and UI/UX to frontend architecture, backend/API development, database design, performance optimization, testing, deployment, and maintenance.
 
+### 🚀 What I Do
 
-<td valign="center" width="40%">
-  <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" height="60%" alt="coding" />
-</td>
-</tr>
-</table>
+- 🏗️ Build scalable **SaaS, ERP & business management platforms**
+- ⚙️ Design secure and maintainable **RESTful APIs & backend systems**
+- 🗄️ Work with **PostgreSQL, MongoDB, Prisma, Redis & database indexing**
+- 🚀 Optimize application performance through **caching, query optimization & request deduplication**
+- 🔐 Implement **JWT, OAuth2, RBAC & permission-based security**
+- 🔄 Build real-time systems using **WebSockets / Socket.io**
+- 🤖 Integrate **AI/LLM capabilities** using Anthropic Claude API, function calling & tool-use patterns
+- 🧪 Write automated tests with **Vitest, Jest, Supertest & Playwright**
+- 🐳 Containerize and deploy applications using **Docker, Vercel & Railway**
+- 📈 Focus on clean architecture, maintainability and long-term system reliability
 
+### 💡 Engineering Focus
+
+**Full-Stack Development • Backend Engineering • System Architecture • Database Optimization • Performance Engineering • SaaS • ERP • AI/LLM Applications**
 
 ---
 
-<h2 align="left">Connect with me:</h2>
+## 🛠️ Technical Skills
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp" />
+</p>
+
+**TypeScript • JavaScript (ES6+) • Python • C • C++**
+
+---
+
+### 🎨 Frontend & UI/UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,html,css" />
+</p>
+
+**Next.js • React.js • Zustand • Redux Toolkit • Context API • TanStack Query • React Hook Form • Tailwind CSS • Recharts • HTML5 • CSS3 • Responsive Design • Figma**
+
+---
+
+### ⚙️ Backend & API Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+**Node.js • NestJS • Express.js • Fastify • RESTful API Design • OpenAPI • WebSocket • Socket.io • JWT • OAuth2 • RBAC • Passport.js • bcrypt • Helmet • Zod**
+
+---
+
+### 🗄️ Databases, Caching & Queues
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+**PostgreSQL • Prisma ORM • MongoDB Atlas • Mongoose • Redis • BullMQ**
+
+**Also experienced with:**
+
+- Database Schema Design
+- Compound Indexing
+- B-Tree Indexing
+- Query Optimization
+- Server-Side Caching
+- Client-Side Caching
+- Cache Invalidation
+- In-Flight Request Deduplication
+- Data Structures & Algorithms
+
+---
+
+### 🤖 AI / LLM Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Anthropic-Claude-black?style=for-the-badge&logo=anthropic" />
+  <img src="https://img.shields.io/badge/LLM-Engineering-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-Learning-green?style=for-the-badge" />
+</p>
+
+- Anthropic Claude API
+- Function Calling
+- Tool-Use / Agent Patterns
+- Prompt Engineering
+- AI-powered Business Applications
+- LLM Integration with REST APIs
+- RAG — Expanding Knowledge
+- Vector Search / pgvector — Exploring
+
+---
+
+### 🧪 Testing & Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+**Jest • Vitest • Supertest • Playwright • OpenTelemetry**
+
+---
+
+### ☁️ DevOps, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" />
+</p>
+
+**Git • GitHub • Docker • CI/CD • AWS (Learning) • Vercel • Railway • Postman • Thunder Client • Cursor**
+
+**Other Tools & Integrations:**
+
+**Stripe • Firebase Auth • Firebase Push Notifications • Cloudinary • ImgBB • jsPDF**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Zayan Mart ERP
+**Unified Manufacturing & Enterprise Command Platform**
+
+Enterprise-grade multi-tenant ERP & CRM SaaS platform covering:
+
+**Dashboard • Sales & CRM • Inventory • Purchases • Manufacturing • Accounts • HR • Payroll • Projects • Assets • Approvals • Reports**
+
+**Highlights:**
+- Independently built the platform end-to-end
+- 13 core enterprise modules
+- 150+ production routes
+- 145 compound database indexes
+- Redis + in-memory two-layer caching
+- Real-time WebSocket notifications
+- JWT-authenticated WebSocket handshakes
+- AI-powered query system using Claude function calling
+- Dockerized production architecture
+- Dashboard response improved from **778ms → 17ms**
+
+**Stack:**  
+`Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Redis` `BullMQ` `Socket.io` `JWT` `Zod` `Claude API` `Docker`
+
+---
+
+### 🏗️ BuildMatrix ERP
+**Construction & Real Estate Operations Platform**
+
+Enterprise ERP designed for construction operations, procurement, workforce management, assets and financial workflows.
+
+**Highlights:**
+- 13 mission-critical enterprise modules
+- Multi-role RBAC architecture
+- BOQ estimation & management
+- MR → PO → GRN procurement workflow
+- HR & payroll
+- Asset maintenance
+- PostgreSQL performance optimization
+- Custom server-side caching
+- Client-side request deduplication
+- Search latency reduced from **120ms → <2ms**
+- Network payload reduced by approximately **75%**
+
+**Stack:**  
+`Next.js` `NestJS` `PostgreSQL` `Prisma` `TypeScript` `Zustand` `TanStack Query` `Tailwind` `JWT` `Zod`
+
+---
+
+### 👥 WorkTrack Enterprise
+**Workforce Administration & Productivity Platform**
+
+Full-stack workforce management system focused on:
+
+**Attendance • Wage Analytics • Task Tracking • Employee Management • Performance Evaluation • Role-Based Dashboards**
+
+**Highlights:**
+- Full product lifecycle ownership
+- Role-based security architecture
+- Admin / HR / Manager / Employee dashboards
+- RESTful backend architecture
+- Production deployment
+
+**Stack:**  
+`React` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `RBAC`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himel2535&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel2535&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=himel2535&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himel2535&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himel2535&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🎓 Education
+
+**M.Sc. in Computer Science & Engineering**  
+Jahangirnagar University
+
+**B.Sc. in Computer Science & Engineering**  
+Jahangirnagar University
+
+---
+
+## 🏆 Leadership & Responsibility
+
+- 🎯 Former **Vice President — JU Information & Technology Society**
+- 💻 Former **Organizer Secretary — JU Computer Club**
+- 🏏 Former **Captain — Jahangirnagar University CSE Cricket Team**
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Backend Architecture
+- Scalable SaaS Architecture
+- System Design
+- LLM Application Engineering
+- RAG & Vector Search
+- pgvector
+- AI Agents & Tool-Use Systems
+- AWS & Cloud Infrastructure
+- Distributed Systems
+- Observability & Production Reliability
+
+---
+
+## 🤝 Let's Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/monwar-hossan-himel-17089924a/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
+  &nbsp;
+  <a href="https://github.com/himel2535" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
+  &nbsp;
+  <a href="mailto:monwarhossanhimel@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  </a>
+  &nbsp;
   <a href="https://www.facebook.com/monwarhossin.himel" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/facebook/1877F2" height="40" width="40" />
-  </a>
-  <a href="mailto:monwarhossanhimel@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="42" />
   </a>
 </p>
 
-
-
-
-📍 **Location:** Kishoreganj, Dhaka, Bangladesh  
-✉️  **Email:** monwarhossanhimel@gmail.com  
+📍 **Dhaka, Bangladesh**  
+📧 **monwarhossanhimel@gmail.com**
 
 ---
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,tailwind" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <!-- Total commits, repos, followers, etc -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=himel2535&show_icons=true&theme=tokyonight" />
-  
-  <!-- Top languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel2535&layout=compact&theme=tokyonight" />
-</p>
+## 👀 Profile Views
 
 <p align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himel2535&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
----
-
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Thanks+for;visiting+my+profile!&center=true&size=25&color=ffffff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+🚀&center=true&size=22&color=ffffff" />
 </h3>
