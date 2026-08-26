@@ -2,23 +2,19 @@
 <!--        PROFILE HEADER     -->
 <!-- ========================= -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Monwar+Hossan+Himel" alt="Monwar Hossan Himel" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Full-Stack+Software+Engineer" alt="Full-Stack Software Engineer" />
+</h3>
+
 <p align="center">
-  <img src="https://i.ibb.co.com/ymtKQhF4/Banner.png" alt="Monwar Hossan Himel Banner" width="100%" />
+  <strong>
+    SaaS & ERP • Backend Engineering • System Architecture • Performance Engineering • AI/LLM
+  </strong>
 </p>
-
-<div align="center">
-
-# 👋 Monwar Hossan Himel
-
-### **Full-Stack Software Engineer**
-
-**SaaS & ERP** · **Backend Engineering** · **System Architecture** · **Performance Optimization** · **AI/LLM**
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,mongodb,redis,docker" />
-
-</div>
 
 
 
