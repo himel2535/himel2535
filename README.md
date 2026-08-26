@@ -2,6 +2,9 @@
 <!--        PROFILE HEADER     -->
 <!-- ========================= -->
 
+<p align="center">
+  <img src="https://i.ibb.co.com/ymtKQhF4/Banner.png" alt="Monwar Hossan Himel Banner" width="100%" />
+</p>
 
 <h1 align="center">
   <img 
