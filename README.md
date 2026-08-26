@@ -29,6 +29,8 @@
 
 ---
 
+<td valign="center" width="40%"> <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" height="60%" alt="coding" /> </td>
+
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack Software Engineer** with **1.5+ years of professional experience** building and shipping production-grade SaaS, ERP, and business automation platforms.
