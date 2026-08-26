@@ -1,4 +1,3 @@
-```markdown
 <!-- ========================= -->
 <!--        PROFILE HEADER     -->
 <!-- ========================= -->
@@ -61,7 +60,7 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 
 ### 💻 Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp" />
 </p>
 
@@ -71,7 +70,7 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 
 ### 🎨 Frontend & UI/UX
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,html,css" />
 </p>
 
@@ -81,7 +80,7 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 
 ### ⚙️ Backend & API Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
@@ -91,13 +90,13 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 
 ### 🗄️ Databases, Caching & Queues
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
 **PostgreSQL • Prisma ORM • MongoDB Atlas • Mongoose • Redis • BullMQ**
 
-**Also experienced with:**
+**Also Experienced With:**
 
 - Database Schema Design
 - Compound Indexing
@@ -124,7 +123,7 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 - Function Calling
 - Tool-Use / Agent Patterns
 - Prompt Engineering
-- AI-powered Business Applications
+- AI-Powered Business Applications
 - LLM Integration with REST APIs
 - RAG — Expanding Knowledge
 - Vector Search / pgvector — Exploring
@@ -133,7 +132,7 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 
 ### 🧪 Testing & Observability
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=jest" />
 </p>
 
@@ -143,7 +142,7 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 
 ### ☁️ DevOps, Cloud & Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" />
 </p>
 
@@ -158,6 +157,7 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 ## 🚀 Featured Projects
 
 ### 🏢 Zayan Mart ERP
+
 **Unified Manufacturing & Enterprise Command Platform**
 
 Enterprise-grade multi-tenant ERP & CRM SaaS platform covering:
@@ -183,6 +183,7 @@ Enterprise-grade multi-tenant ERP & CRM SaaS platform covering:
 ---
 
 ### 🏗️ BuildMatrix ERP
+
 **Construction & Real Estate Operations Platform**
 
 Enterprise ERP designed for construction operations, procurement, workforce management, assets and financial workflows.
@@ -207,6 +208,7 @@ Enterprise ERP designed for construction operations, procurement, workforce mana
 ---
 
 ### 👥 WorkTrack Enterprise
+
 **Workforce Administration & Productivity Platform**
 
 Full-stack workforce management system focused on:
@@ -234,7 +236,6 @@ Full-stack workforce management system focused on:
     src="https://github-readme-stats.vercel.app/api?username=himel2535&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="GitHub Stats"
   />
-
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel2535&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
@@ -362,4 +363,3 @@ Jahangirnagar University
 <p align="center">
   <i>Let's build something great together.</i>
 </p>
-```
