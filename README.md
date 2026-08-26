@@ -1,17 +1,22 @@
+```markdown
 <!-- ========================= -->
 <!--        PROFILE HEADER     -->
 <!-- ========================= -->
 
 <p align="center">
-  <td valign="center" width="40%"> <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" height="10%" alt="coding" /> </td>
+  <img
+    src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif"
+    alt="Coding Animation"
+    width="420"
+  />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Monwar+Hossan+Himel" alt="Monwar Hossan Himel" />
+  Monwar Hossan Himel
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Full-Stack+Software+Engineer" alt="Full-Stack Software Engineer" />
+  Full-Stack Software Engineer
 </h3>
 
 <p align="center">
@@ -20,16 +25,12 @@
   </strong>
 </p>
 
-
-
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp;•&nbsp;
   💼 Open to Full-Stack / Backend / Platform Roles
 </p>
 
 ---
-
-
 
 ## 👨‍💻 About Me
 
@@ -112,7 +113,7 @@ I enjoy taking **end-to-end ownership** of software products — from requiremen
 
 ### 🤖 AI / LLM Engineering
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Anthropic-Claude-black?style=for-the-badge&logo=anthropic" />
   <img src="https://img.shields.io/badge/LLM-Engineering-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-Learning-blue?style=for-the-badge" />
@@ -163,7 +164,8 @@ Enterprise-grade multi-tenant ERP & CRM SaaS platform covering:
 
 **Dashboard • Sales & CRM • Inventory • Purchases • Manufacturing • Accounts • HR • Payroll • Projects • Assets • Approvals • Reports**
 
-**Highlights:**
+#### Highlights
+
 - Independently built the platform end-to-end
 - 13 core enterprise modules
 - 150+ production routes
@@ -185,7 +187,8 @@ Enterprise-grade multi-tenant ERP & CRM SaaS platform covering:
 
 Enterprise ERP designed for construction operations, procurement, workforce management, assets and financial workflows.
 
-**Highlights:**
+#### Highlights
+
 - 13 mission-critical enterprise modules
 - Multi-role RBAC architecture
 - BOQ estimation & management
@@ -210,7 +213,8 @@ Full-stack workforce management system focused on:
 
 **Attendance • Wage Analytics • Task Tracking • Employee Management • Performance Evaluation • Role-Based Dashboards**
 
-**Highlights:**
+#### Highlights
+
 - Full product lifecycle ownership
 - Role-based security architecture
 - Admin / HR / Manager / Employee dashboards
@@ -225,16 +229,31 @@ Full-stack workforce management system focused on:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himel2535&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel2535&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=himel2535&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel2535&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=himel2535&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.demolab.com?user=himel2535&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himel2535&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himel2535&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 ---
@@ -242,7 +261,11 @@ Full-stack workforce management system focused on:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himel2535&theme=tokyo-night&hide_border=true" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=himel2535&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -284,19 +307,35 @@ Jahangirnagar University
 
 <p align="left">
   <a href="https://www.linkedin.com/in/monwar-hossan-himel-17089924a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="42"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;
   <a href="https://github.com/himel2535" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42" />
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="42"
+      alt="GitHub"
+    />
   </a>
   &nbsp;
   <a href="mailto:monwarhossanhimel@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      height="42"
+      alt="Email"
+    />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/monwarhossin.himel" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="42" />
+    <img
+      src="https://cdn.simpleicons.org/facebook/1877F2"
+      height="42"
+      alt="Facebook"
+    />
   </a>
 </p>
 
@@ -308,11 +347,19 @@ Jahangirnagar University
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=himel2535&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+🚀&center=true&size=22&color=ffffff" />
+  🚀 Thanks for visiting my profile!
 </h3>
+
+<p align="center">
+  <i>Let's build something great together.</i>
+</p>
+```
