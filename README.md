@@ -2,17 +2,12 @@
 <!--        PROFILE HEADER     -->
 <!-- ========================= -->
 
-<p align="center">
-  <img
-    src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif"
-    alt="Coding Animation"
-    width="100%"
-    style="height: 300px; object-fit: cover; object-position: center;"
-  />
-</p>
 
 <h1 align="center">
-  Monwar Hossan Himel
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=650&height=50&lines=Monwar+Hossan+Himel"
+    alt="Monwar Hossan Himel"
+  />
 </h1>
 
 <h3 align="center">
