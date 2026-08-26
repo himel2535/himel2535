@@ -7,7 +7,7 @@
     src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif"
     alt="Coding Animation"
     width="100%"
-    style="height: 180px; object-fit: cover; object-position: center;"
+    style="height: 300px; object-fit: cover; object-position: center;"
   />
 </p>
 
