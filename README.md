@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <td valign="center" width="40%"> <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" height="60%" alt="coding" /> </td>
+  <td valign="center" width="40%"> <img src="https://github.com/Nur-Adnan/Nur-Adnan/blob/main/gifs/10_coding_dribbble.gif" width="100%" height="10%" alt="coding" /> </td>
 </p>
 
 <h1 align="center">
