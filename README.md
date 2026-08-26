@@ -6,13 +6,17 @@
   <img src="https://i.ibb.co.com/ymtKQhF4/Banner.png" alt="Monwar Hossan Himel Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Monwar+Hossan+Himel;Full-Stack+Software+Engineer;Building+Scalable+SaaS+%26+ERP+Systems;Exploring+AI+%26+LLM+Engineering&center=true&size=28&color=ffffff" />
-</h1>
+<h1 align="center">Monwar Hossan Himel</h1>
+
+<h3 align="center">
+  Full-Stack Software Engineer
+</h3>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer | SaaS & ERP | Backend & Platform Engineering | AI/LLM</strong>
+  SaaS & ERP • Backend Engineering • System Architecture • Performance Engineering • AI/LLM
 </p>
+
+
 
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp;•&nbsp;
